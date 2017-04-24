@@ -5,6 +5,7 @@
         <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license_model>none</license_model>
         <logo/>
         <menu display_value="Order Tracking System">f5dc09ea672612006cc2956c33415a79</menu>
         <name>Order Tracking System</name>

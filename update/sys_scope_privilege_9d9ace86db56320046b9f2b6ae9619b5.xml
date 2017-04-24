@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>create</operation>
+        <source_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-04-24 17:37:18</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>9d9ace86db56320046b9f2b6ae9619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_order_return_return_status</sys_name>
+        <sys_package display_value="Order Tracking System" source="sn_order_tracking">a40c09ea672612006cc2956c33415a73</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Order Tracking System">a40c09ea672612006cc2956c33415a73</sys_scope>
+        <sys_update_name>sys_scope_privilege_9d9ace86db56320046b9f2b6ae9619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-04-24 17:37:18</sys_updated_on>
+        <target_name>x_snc_order_return_return_status</target_name>
+        <target_scope display_value="Order Return Processing›">e91a93994ffa96007813fc728110c7b4</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+</record_update>
